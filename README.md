@@ -1,2 +1,2 @@
 # frist-repo
-this is first repo mede by me
+this is first repo made by me
